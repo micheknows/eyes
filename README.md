@@ -20,4 +20,4 @@ Future improvements for this project include:
 
 ## License
 
-This project is licensed under the MIT license. See [LICENSE.md](LICENSE) for details.
+This project is licensed under the MIT license. See [LICENSE](LICENSE) for details.
